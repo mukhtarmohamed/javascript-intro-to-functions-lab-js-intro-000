@@ -1,8 +1,8 @@
-functions happyHolidays(){
-  return  "happyHolidays"
+function happyHolidays(){
+  return "happy happyHolidays"
 }
-happyHolidays();
 
-function happyHolidaysTo(jony){
-  return "happy holidays To" + ${"jama"}
+
+function happyHolidaysTo(johny){
+  return "happyHolidaysTo" + ${"johny"}
 }
